@@ -1,2 +1,10 @@
-apps/backend/.venv
-apps/client/node_modules
+
+
+# Python
+*.py[cod]
+__pycache__/
+*.so
+.Python
+
+# Virtual Environment
+.venv/
